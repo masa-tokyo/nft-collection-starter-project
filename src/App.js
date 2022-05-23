@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 import "./styles/App.css";
 import twitterLogo from "./assets/twitter-logo.svg";
 // Constantsを宣言する: constとは値書き換えを禁止した変数を宣言する方法です。
-const TWITTER_HANDLE = "https://twitter.com/masaki_hideout";
+const TWITTER_HANDLE = "masaki_hideout";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const OPENSEA_LINK = "";
 //Mint出来るNFTの総数
